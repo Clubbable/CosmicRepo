@@ -1,0 +1,276 @@
+23:30:33.859 [main] INFO  server.Server - Cosmic v83 starting up.
+23:30:34.010 [main] INFO  tools.DatabaseConnection - Initializing connection pool...
+23:30:34.014 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Starting...
+23:30:34.345 [main] INFO  pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d8bbcdc
+23:30:34.346 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Start completed.
+23:30:34.346 [main] INFO  tools.DatabaseConnection - Connection pool initialized in 334 ms
+23:30:34.732 [main] INFO  server.Server - Starting world 0
+23:30:37.093 [main] INFO  channel.Channel - Channel 1: Listening on port 7575
+23:30:37.154 [main] INFO  channel.Channel - Channel 2: Listening on port 7576
+23:30:37.219 [main] INFO  channel.Channel - Channel 3: Listening on port 7577
+23:30:37.279 [main] INFO  channel.Channel - Channel 4: Listening on port 7578
+23:30:37.342 [main] INFO  channel.Channel - Channel 5: Listening on port 7579
+23:30:37.401 [main] INFO  channel.Channel - Channel 6: Listening on port 7580
+23:30:37.464 [main] INFO  channel.Channel - Channel 7: Listening on port 7581
+23:30:37.519 [main] INFO  channel.Channel - Channel 8: Listening on port 7582
+23:30:37.566 [main] INFO  channel.Channel - Channel 9: Listening on port 7583
+23:30:37.619 [main] INFO  channel.Channel - Channel 10: Listening on port 7584
+23:30:37.668 [main] INFO  channel.Channel - Channel 11: Listening on port 7585
+23:30:37.721 [main] INFO  channel.Channel - Channel 12: Listening on port 7586
+23:30:37.768 [main] INFO  channel.Channel - Channel 13: Listening on port 7587
+23:30:37.821 [main] INFO  channel.Channel - Channel 14: Listening on port 7588
+23:30:37.867 [main] INFO  channel.Channel - Channel 15: Listening on port 7589
+23:30:37.911 [main] INFO  channel.Channel - Channel 16: Listening on port 7590
+23:30:37.954 [main] INFO  channel.Channel - Channel 17: Listening on port 7591
+23:30:38.000 [main] INFO  channel.Channel - Channel 18: Listening on port 7592
+23:30:38.076 [main] INFO  server.Server - Finished loading world 0
+23:30:38.132 [main] INFO  server.Server - Listening on port 8484
+23:30:38.133 [main] INFO  server.Server - Cosmic is now online after 4276 ms.
+06:30:53.727 [nioEventLoopGroup-39-1] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+06:31:08.205 [nioEventLoopGroup-39-2] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+06:32:02.282 [nioEventLoopGroup-39-2] INFO  creator.CharacterFactory - Account admin created chr with name Mantracker
+06:32:07.814 [nioEventLoopGroup-3-1] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+06:32:34.153 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command HelpCommand
+06:32:53.099 [nioEventLoopGroup-39-3] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+06:32:53.105 [pool-3-thread-19] DEBUG client.Character - Attempting to save chr Mantracker
+06:33:51.118 [nioEventLoopGroup-3-2] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+06:33:57.374 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command HelpCommand
+06:34:49.040 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command HelpCommand
+06:35:05.539 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command MaxSkillCommand
+06:36:11.452 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+06:36:22.377 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command HelpCommand
+06:36:57.243 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+06:38:36.298 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+06:41:04.943 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+06:41:20.524 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:41:58.321 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:42:41.959 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+06:43:42.356 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:44:21.359 [nioEventLoopGroup-3-2] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Gachapon Ticket (SN 50200003) for 30000
+06:44:24.946 [nioEventLoopGroup-3-2] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Gachapon Ticket (SN 50200003) for 30000
+06:44:27.794 [nioEventLoopGroup-3-3] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+06:45:22.000 [nioEventLoopGroup-3-3] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+06:47:22.458 [nioEventLoopGroup-3-3] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+06:47:50.127 [nioEventLoopGroup-3-3] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:47:52.578 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:47:59.123 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Baby Tiger (SN 60000104) for 5800
+06:48:03.456 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Meso Magnet (SN 60100000) for 2400
+06:48:05.633 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Item Pouch (SN 60100004) for 2400
+06:48:07.870 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Wing Boots (SN 60100041) for 1800
+06:48:10.325 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Binocular (SN 60100042) for 1800
+06:48:12.987 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Auto HP Potion Pouch (SN 60100036) for 1800
+06:48:14.785 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Auto MP Potion Pouch (SN 60100038) for 1800
+06:48:28.204 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Golden Drumstick (SN 60200076) for 10000
+06:48:31.992 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Golden Drumstick (SN 60200076) for 10000
+06:48:35.435 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Golden Drumstick (SN 60200076) for 10000
+06:48:38.791 [nioEventLoopGroup-3-3] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item Golden Drumstick (SN 60200076) for 10000
+06:48:42.714 [nioEventLoopGroup-3-4] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+06:49:29.676 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+06:51:45.677 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+06:51:53.001 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:52:20.888 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:52:28.530 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:53:14.251 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:53:18.254 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+06:54:37.690 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:54:46.050 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:54:52.890 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+06:55:07.409 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:55:25.807 [nioEventLoopGroup-3-4] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:55:53.649 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:04.447 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:06.853 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:08.440 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:10.650 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:13.044 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:14.642 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:17.650 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:20.853 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:23.044 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:25.449 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:27.050 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:28.639 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:30.038 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:32.448 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:34.049 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:36.242 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:37.853 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:40.244 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:43.244 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:44.841 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:46.440 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:48.045 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:49.647 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:51.844 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:53.446 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:55.045 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:57.253 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:56:58.048 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:00.447 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:02.045 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:03.445 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:05.045 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:06.644 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:08.252 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:10.440 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:16.051 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:17.439 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:20.650 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:23.039 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:24.440 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:26.044 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:27.651 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:30.053 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:31.441 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:33.045 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:34.639 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:37.051 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:38.445 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:40.843 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:43.243 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:44.644 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:46.245 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:47.850 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:49.450 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:50.849 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:53.248 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:54.851 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:56.446 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:57:58.652 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:00.244 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:02.646 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:04.249 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:06.448 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:08.051 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:09.654 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:11.039 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:12.643 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:14.246 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:15.849 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:17.448 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:19.639 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:23.646 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+06:58:25.337 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:27.014 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:28.738 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:31.485 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:32.952 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:34.717 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:36.555 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:38.485 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:39.957 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:41.609 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:43.425 [nioEventLoopGroup-3-4] DEBUG handlers.CashOperationHandler - Chr Mantracker bought 4 slots to their account storage.
+06:58:45.266 [nioEventLoopGroup-3-5] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+06:59:02.989 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+06:59:17.617 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+06:59:40.272 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:00:21.315 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:00:59.147 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:01:15.969 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command HelpCommand
+07:01:30.679 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command WarpCommand
+07:05:14.756 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:05:22.960 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:05:27.865 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:06:50.695 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:07:21.643 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:07:31.854 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:09:21.781 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:09:56.149 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command WhoDropsCommand
+07:10:11.272 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command WhoDropsCommand
+07:10:28.582 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:12:17.183 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command WhoDropsCommand
+07:12:31.260 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:15:28.388 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:17:19.327 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:21:16.114 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command HelpCommand
+07:21:22.398 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command SpCommand
+07:21:26.826 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command SpCommand
+07:21:33.804 [nioEventLoopGroup-3-5] WARN  client.Client - Error in packet handler GeneralChatHandler. Chr Mantracker on map 211000001, account admin. Packet: ByteBufInPacket[31000E00217370204D616E747261636B6572_00]
+java.lang.NumberFormatException: For input string: "mantracker"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:668) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:786) ~[?:?]
+	at client.command.commands.gm2.SpCommand.execute(SpCommand.java:45) ~[classes/:?]
+	at client.command.CommandsExecutor.handleInternal(CommandsExecutor.java:123) ~[classes/:?]
+	at client.command.CommandsExecutor.handle(CommandsExecutor.java:83) ~[classes/:?]
+	at net.server.channel.handlers.GeneralChatHandler.handlePacket(GeneralChatHandler.java:54) ~[classes/:?]
+	at client.Client.channelRead(Client.java:207) ~[classes/:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:436) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:327) ~[netty-codec-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:299) ~[netty-codec-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:251) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) ~[netty-transport-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.79.Final.jar:4.1.79.Final]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+07:21:48.833 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command HelpCommand
+07:22:02.280 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command SpCommand
+07:22:09.977 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command SpCommand
+07:22:34.671 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+07:23:37.701 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+07:24:35.735 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:24:51.240 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:25:12.747 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:25:37.864 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:30:35.455 [TimerManager-Worker-2] DEBUG client.Character - Attempting to autosave chr Mantracker
+07:32:16.275 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Mantracker used command WarpCommand
+07:34:27.775 [pool-3-thread-17] DEBUG client.Character - Attempting to save chr Mantracker
+07:34:30.022 [Thread-0] INFO  server.Server - Shutting down the server!
+07:34:30.022 [Thread-0] INFO  channel.Channel - Shutting down channel 1 in world 0
+07:34:30.050 [Thread-0] INFO  channel.Channel - Successfully shut down channel 1 in world 0
+07:34:30.050 [Thread-0] INFO  channel.Channel - Shutting down channel 2 in world 0
+07:34:30.066 [Thread-0] INFO  channel.Channel - Successfully shut down channel 2 in world 0
+07:34:30.066 [Thread-0] INFO  channel.Channel - Shutting down channel 3 in world 0
+07:34:30.076 [Thread-0] INFO  channel.Channel - Successfully shut down channel 3 in world 0
+07:34:30.076 [Thread-0] INFO  channel.Channel - Shutting down channel 4 in world 0
+07:34:30.085 [Thread-0] INFO  channel.Channel - Successfully shut down channel 4 in world 0
+07:34:30.085 [Thread-0] INFO  channel.Channel - Shutting down channel 5 in world 0
+07:34:30.093 [Thread-0] INFO  channel.Channel - Successfully shut down channel 5 in world 0
+07:34:30.093 [Thread-0] INFO  channel.Channel - Shutting down channel 6 in world 0
+07:34:30.107 [Thread-0] INFO  channel.Channel - Successfully shut down channel 6 in world 0
+07:34:30.107 [Thread-0] INFO  channel.Channel - Shutting down channel 7 in world 0
+07:34:30.122 [Thread-0] INFO  channel.Channel - Successfully shut down channel 7 in world 0
+07:34:30.122 [Thread-0] INFO  channel.Channel - Shutting down channel 8 in world 0
+07:34:30.143 [Thread-0] INFO  channel.Channel - Successfully shut down channel 8 in world 0
+07:34:30.143 [Thread-0] INFO  channel.Channel - Shutting down channel 9 in world 0
+07:34:30.158 [Thread-0] INFO  channel.Channel - Successfully shut down channel 9 in world 0
+07:34:30.158 [Thread-0] INFO  channel.Channel - Shutting down channel 10 in world 0
+07:34:30.165 [Thread-0] INFO  channel.Channel - Successfully shut down channel 10 in world 0
+07:34:30.165 [Thread-0] INFO  channel.Channel - Shutting down channel 11 in world 0
+07:34:30.177 [Thread-0] INFO  channel.Channel - Successfully shut down channel 11 in world 0
+07:34:30.177 [Thread-0] INFO  channel.Channel - Shutting down channel 12 in world 0
+07:34:30.187 [Thread-0] INFO  channel.Channel - Successfully shut down channel 12 in world 0
+07:34:30.187 [Thread-0] INFO  channel.Channel - Shutting down channel 13 in world 0
+07:34:30.194 [Thread-0] INFO  channel.Channel - Successfully shut down channel 13 in world 0
+07:34:30.194 [Thread-0] INFO  channel.Channel - Shutting down channel 14 in world 0
+07:34:30.200 [Thread-0] INFO  channel.Channel - Successfully shut down channel 14 in world 0
+07:34:30.200 [Thread-0] INFO  channel.Channel - Shutting down channel 15 in world 0
+07:34:30.207 [Thread-0] INFO  channel.Channel - Successfully shut down channel 15 in world 0
+07:34:30.207 [Thread-0] INFO  channel.Channel - Shutting down channel 16 in world 0
+07:34:30.216 [Thread-0] INFO  channel.Channel - Successfully shut down channel 16 in world 0
+07:34:30.216 [Thread-0] INFO  channel.Channel - Shutting down channel 17 in world 0
+07:34:30.224 [Thread-0] INFO  channel.Channel - Successfully shut down channel 17 in world 0
+07:34:30.224 [Thread-0] INFO  channel.Channel - Shutting down channel 18 in world 0
+07:34:30.234 [Thread-0] INFO  channel.Channel - Successfully shut down channel 18 in world 0
+07:34:30.234 [Thread-0] INFO  world.World - Finished shutting down world 0
+07:34:30.237 [Thread-0] INFO  server.Server - Worlds and channels are offline.

@@ -1,0 +1,67 @@
+02:06:51.421 [main] INFO  server.Server - Cosmic v83 starting up.
+02:06:51.550 [main] INFO  tools.DatabaseConnection - Initializing connection pool...
+02:06:51.558 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Starting...
+02:06:51.961 [main] INFO  pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@32cb636e
+02:06:51.963 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Start completed.
+02:06:51.963 [main] INFO  tools.DatabaseConnection - Connection pool initialized in 410 ms
+02:06:52.166 [main] INFO  server.Server - Starting world 0
+02:06:54.255 [main] INFO  channel.Channel - Channel 1: Listening on port 7575
+02:06:54.324 [main] INFO  channel.Channel - Channel 2: Listening on port 7576
+02:06:54.410 [main] INFO  channel.Channel - Channel 3: Listening on port 7577
+02:06:54.481 [main] INFO  channel.Channel - Channel 4: Listening on port 7578
+02:06:54.539 [main] INFO  channel.Channel - Channel 5: Listening on port 7579
+02:06:54.599 [main] INFO  channel.Channel - Channel 6: Listening on port 7580
+02:06:54.659 [main] INFO  channel.Channel - Channel 7: Listening on port 7581
+02:06:54.730 [main] INFO  channel.Channel - Channel 8: Listening on port 7582
+02:06:54.796 [main] INFO  channel.Channel - Channel 9: Listening on port 7583
+02:06:54.856 [main] INFO  channel.Channel - Channel 10: Listening on port 7584
+02:06:54.911 [main] INFO  channel.Channel - Channel 11: Listening on port 7585
+02:06:54.965 [main] INFO  channel.Channel - Channel 12: Listening on port 7586
+02:06:55.014 [main] INFO  channel.Channel - Channel 13: Listening on port 7587
+02:06:55.067 [main] INFO  channel.Channel - Channel 14: Listening on port 7588
+02:06:55.117 [main] INFO  channel.Channel - Channel 15: Listening on port 7589
+02:06:55.166 [main] INFO  channel.Channel - Channel 16: Listening on port 7590
+02:06:55.217 [main] INFO  channel.Channel - Channel 17: Listening on port 7591
+02:06:55.263 [main] INFO  channel.Channel - Channel 18: Listening on port 7592
+02:06:55.279 [main] INFO  server.Server - Finished loading world 0
+02:06:55.322 [main] INFO  server.Server - Listening on port 8484
+02:06:55.322 [main] INFO  server.Server - Cosmic is now online after 3904 ms.
+09:07:19.236 [Thread-0] INFO  server.Server - Shutting down the server!
+09:07:19.237 [Thread-0] INFO  channel.Channel - Shutting down channel 1 in world 0
+09:07:19.247 [Thread-0] INFO  channel.Channel - Successfully shut down channel 1 in world 0
+09:07:19.247 [Thread-0] INFO  channel.Channel - Shutting down channel 2 in world 0
+09:07:19.255 [Thread-0] INFO  channel.Channel - Successfully shut down channel 2 in world 0
+09:07:19.256 [Thread-0] INFO  channel.Channel - Shutting down channel 3 in world 0
+09:07:19.260 [Thread-0] INFO  channel.Channel - Successfully shut down channel 3 in world 0
+09:07:19.260 [Thread-0] INFO  channel.Channel - Shutting down channel 4 in world 0
+09:07:19.264 [Thread-0] INFO  channel.Channel - Successfully shut down channel 4 in world 0
+09:07:19.264 [Thread-0] INFO  channel.Channel - Shutting down channel 5 in world 0
+09:07:19.270 [Thread-0] INFO  channel.Channel - Successfully shut down channel 5 in world 0
+09:07:19.270 [Thread-0] INFO  channel.Channel - Shutting down channel 6 in world 0
+09:07:19.276 [Thread-0] INFO  channel.Channel - Successfully shut down channel 6 in world 0
+09:07:19.276 [Thread-0] INFO  channel.Channel - Shutting down channel 7 in world 0
+09:07:19.283 [Thread-0] INFO  channel.Channel - Successfully shut down channel 7 in world 0
+09:07:19.283 [Thread-0] INFO  channel.Channel - Shutting down channel 8 in world 0
+09:07:19.288 [Thread-0] INFO  channel.Channel - Successfully shut down channel 8 in world 0
+09:07:19.288 [Thread-0] INFO  channel.Channel - Shutting down channel 9 in world 0
+09:07:19.295 [Thread-0] INFO  channel.Channel - Successfully shut down channel 9 in world 0
+09:07:19.295 [Thread-0] INFO  channel.Channel - Shutting down channel 10 in world 0
+09:07:19.300 [Thread-0] INFO  channel.Channel - Successfully shut down channel 10 in world 0
+09:07:19.301 [Thread-0] INFO  channel.Channel - Shutting down channel 11 in world 0
+09:07:19.308 [Thread-0] INFO  channel.Channel - Successfully shut down channel 11 in world 0
+09:07:19.308 [Thread-0] INFO  channel.Channel - Shutting down channel 12 in world 0
+09:07:19.314 [Thread-0] INFO  channel.Channel - Successfully shut down channel 12 in world 0
+09:07:19.314 [Thread-0] INFO  channel.Channel - Shutting down channel 13 in world 0
+09:07:19.320 [Thread-0] INFO  channel.Channel - Successfully shut down channel 13 in world 0
+09:07:19.320 [Thread-0] INFO  channel.Channel - Shutting down channel 14 in world 0
+09:07:19.324 [Thread-0] INFO  channel.Channel - Successfully shut down channel 14 in world 0
+09:07:19.324 [Thread-0] INFO  channel.Channel - Shutting down channel 15 in world 0
+09:07:19.331 [Thread-0] INFO  channel.Channel - Successfully shut down channel 15 in world 0
+09:07:19.331 [Thread-0] INFO  channel.Channel - Shutting down channel 16 in world 0
+09:07:19.334 [Thread-0] INFO  channel.Channel - Successfully shut down channel 16 in world 0
+09:07:19.334 [Thread-0] INFO  channel.Channel - Shutting down channel 17 in world 0
+09:07:19.338 [Thread-0] INFO  channel.Channel - Successfully shut down channel 17 in world 0
+09:07:19.338 [Thread-0] INFO  channel.Channel - Shutting down channel 18 in world 0
+09:07:19.343 [Thread-0] INFO  channel.Channel - Successfully shut down channel 18 in world 0
+09:07:19.344 [Thread-0] INFO  world.World - Finished shutting down world 0
+09:07:19.349 [Thread-0] INFO  server.Server - Worlds and channels are offline.

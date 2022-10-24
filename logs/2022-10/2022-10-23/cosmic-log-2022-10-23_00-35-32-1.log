@@ -1,0 +1,133 @@
+00:35:32.943 [main] INFO  server.Server - Cosmic v83 starting up.
+00:35:33.092 [main] INFO  tools.DatabaseConnection - Initializing connection pool...
+00:35:33.097 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Starting...
+00:35:33.415 [main] INFO  pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4e76dac
+00:35:33.416 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Start completed.
+00:35:33.416 [main] INFO  tools.DatabaseConnection - Connection pool initialized in 322 ms
+00:35:33.712 [main] INFO  server.Server - Starting world 0
+00:35:36.244 [main] INFO  channel.Channel - Channel 1: Listening on port 7575
+00:35:36.309 [main] INFO  channel.Channel - Channel 2: Listening on port 7576
+00:35:36.370 [main] INFO  channel.Channel - Channel 3: Listening on port 7577
+00:35:36.435 [main] INFO  channel.Channel - Channel 4: Listening on port 7578
+00:35:36.497 [main] INFO  channel.Channel - Channel 5: Listening on port 7579
+00:35:36.559 [main] INFO  channel.Channel - Channel 6: Listening on port 7580
+00:35:36.616 [main] INFO  channel.Channel - Channel 7: Listening on port 7581
+00:35:36.688 [main] INFO  channel.Channel - Channel 8: Listening on port 7582
+00:35:36.765 [main] INFO  channel.Channel - Channel 9: Listening on port 7583
+00:35:36.824 [main] INFO  channel.Channel - Channel 10: Listening on port 7584
+00:35:36.876 [main] INFO  channel.Channel - Channel 11: Listening on port 7585
+00:35:36.924 [main] INFO  channel.Channel - Channel 12: Listening on port 7586
+00:35:36.972 [main] INFO  channel.Channel - Channel 13: Listening on port 7587
+00:35:37.023 [main] INFO  channel.Channel - Channel 14: Listening on port 7588
+00:35:37.066 [main] INFO  channel.Channel - Channel 15: Listening on port 7589
+00:35:37.110 [main] INFO  channel.Channel - Channel 16: Listening on port 7590
+00:35:37.152 [main] INFO  channel.Channel - Channel 17: Listening on port 7591
+00:35:37.199 [main] INFO  channel.Channel - Channel 18: Listening on port 7592
+00:35:37.308 [main] INFO  server.Server - Finished loading world 0
+00:35:37.366 [main] INFO  server.Server - Listening on port 8484
+00:35:37.366 [main] INFO  server.Server - Cosmic is now online after 4425 ms.
+07:35:50.918 [nioEventLoopGroup-39-1] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+07:35:53.165 [nioEventLoopGroup-39-2] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+07:36:31.391 [nioEventLoopGroup-3-1] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+07:36:36.272 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:36:41.762 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:38:01.505 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command WhoDropsCommand
+07:38:22.589 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+07:38:39.921 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:38:53.520 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command WhoDropsCommand
+07:39:18.950 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:39:22.736 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:39:26.233 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:39:47.327 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:41:59.127 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:43:18.858 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+07:44:35.645 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+07:46:21.459 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+07:48:27.894 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+07:48:51.871 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:49:01.344 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:49:05.963 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:49:16.534 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:50:03.173 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:50:27.784 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:50:44.012 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:51:13.077 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:51:41.458 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:51:50.150 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:52:23.659 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:52:26.491 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:53:29.170 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:53:56.851 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:54:03.312 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:54:39.216 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:54:58.691 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:56:19.602 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:57:41.316 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+07:58:09.118 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+07:58:15.717 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+07:58:41.066 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+08:06:56.436 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+08:07:02.890 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+08:08:44.270 [TimerManager-Worker-1] DEBUG client.Character - Attempting to save chr Mantracker
+08:08:51.458 [nioEventLoopGroup-3-1] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item VIP Teleport Rock (SN 30000009) for 4500
+08:08:55.267 [nioEventLoopGroup-3-1] DEBUG handlers.CashOperationHandler - Chr Mantracker bought cash item VIP Teleport Rock (SN 30000009) for 4500
+08:08:58.918 [nioEventLoopGroup-3-2] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+08:09:07.894 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+08:09:15.642 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+08:11:29.991 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+08:13:00.889 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+08:13:44.439 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+08:13:55.790 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+08:14:20.749 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+08:14:39.413 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command GmShopCommand
+08:15:13.611 [nioEventLoopGroup-3-2] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+08:16:30.455 [TimerManager-Worker-2] DEBUG client.Character - Attempting to save chr Mantracker
+08:16:30.651 [nioEventLoopGroup-5-1] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 2 from 127.0.0.1
+08:18:11.426 [nioEventLoopGroup-5-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+08:18:16.253 [nioEventLoopGroup-5-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+08:18:49.276 [nioEventLoopGroup-5-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+08:21:21.273 [nioEventLoopGroup-5-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+08:21:58.941 [nioEventLoopGroup-5-1] INFO  autoban.AutobanFactory - Autoban alert - chr Mantracker caused DISTANCE_HACK-Distance Sq to monster: 250696.0 SID: 1121008 MID: 8800004
+08:23:22.506 [nioEventLoopGroup-5-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+08:25:13.888 [nioEventLoopGroup-5-1] INFO  command.CommandsExecutor - Chr Mantracker used command EmpowerMeCommand
+08:26:06.263 [nioEventLoopGroup-39-3] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+08:26:06.276 [pool-3-thread-1] DEBUG client.Character - Attempting to save chr Mantracker
+09:21:16.583 [Thread-0] INFO  server.Server - Shutting down the server!
+09:21:16.584 [Thread-0] INFO  channel.Channel - Shutting down channel 1 in world 0
+09:21:16.640 [Thread-0] INFO  channel.Channel - Successfully shut down channel 1 in world 0
+09:21:16.640 [Thread-0] INFO  channel.Channel - Shutting down channel 2 in world 0
+09:21:16.663 [Thread-0] INFO  channel.Channel - Successfully shut down channel 2 in world 0
+09:21:16.663 [Thread-0] INFO  channel.Channel - Shutting down channel 3 in world 0
+09:21:16.686 [Thread-0] INFO  channel.Channel - Successfully shut down channel 3 in world 0
+09:21:16.686 [Thread-0] INFO  channel.Channel - Shutting down channel 4 in world 0
+09:21:16.715 [Thread-0] INFO  channel.Channel - Successfully shut down channel 4 in world 0
+09:21:16.715 [Thread-0] INFO  channel.Channel - Shutting down channel 5 in world 0
+09:21:16.738 [Thread-0] INFO  channel.Channel - Successfully shut down channel 5 in world 0
+09:21:16.738 [Thread-0] INFO  channel.Channel - Shutting down channel 6 in world 0
+09:21:16.754 [Thread-0] INFO  channel.Channel - Successfully shut down channel 6 in world 0
+09:21:16.755 [Thread-0] INFO  channel.Channel - Shutting down channel 7 in world 0
+09:21:16.772 [Thread-0] INFO  channel.Channel - Successfully shut down channel 7 in world 0
+09:21:16.772 [Thread-0] INFO  channel.Channel - Shutting down channel 8 in world 0
+09:21:16.792 [Thread-0] INFO  channel.Channel - Successfully shut down channel 8 in world 0
+09:21:16.792 [Thread-0] INFO  channel.Channel - Shutting down channel 9 in world 0
+09:21:16.813 [Thread-0] INFO  channel.Channel - Successfully shut down channel 9 in world 0
+09:21:16.814 [Thread-0] INFO  channel.Channel - Shutting down channel 10 in world 0
+09:21:16.831 [Thread-0] INFO  channel.Channel - Successfully shut down channel 10 in world 0
+09:21:16.832 [Thread-0] INFO  channel.Channel - Shutting down channel 11 in world 0
+09:21:16.851 [Thread-0] INFO  channel.Channel - Successfully shut down channel 11 in world 0
+09:21:16.851 [Thread-0] INFO  channel.Channel - Shutting down channel 12 in world 0
+09:21:16.870 [Thread-0] INFO  channel.Channel - Successfully shut down channel 12 in world 0
+09:21:16.870 [Thread-0] INFO  channel.Channel - Shutting down channel 13 in world 0
+09:21:16.888 [Thread-0] INFO  channel.Channel - Successfully shut down channel 13 in world 0
+09:21:16.888 [Thread-0] INFO  channel.Channel - Shutting down channel 14 in world 0
+09:21:16.911 [Thread-0] INFO  channel.Channel - Successfully shut down channel 14 in world 0
+09:21:16.912 [Thread-0] INFO  channel.Channel - Shutting down channel 15 in world 0
+09:21:16.933 [Thread-0] INFO  channel.Channel - Successfully shut down channel 15 in world 0
+09:21:16.933 [Thread-0] INFO  channel.Channel - Shutting down channel 16 in world 0
+09:21:16.951 [Thread-0] INFO  channel.Channel - Successfully shut down channel 16 in world 0
+09:21:16.951 [Thread-0] INFO  channel.Channel - Shutting down channel 17 in world 0
+09:21:16.967 [Thread-0] INFO  channel.Channel - Successfully shut down channel 17 in world 0
+09:21:16.967 [Thread-0] INFO  channel.Channel - Shutting down channel 18 in world 0
+09:21:16.983 [Thread-0] INFO  channel.Channel - Successfully shut down channel 18 in world 0
+09:21:16.983 [Thread-0] INFO  world.World - Finished shutting down world 0
+09:21:16.988 [Thread-0] INFO  server.Server - Worlds and channels are offline.

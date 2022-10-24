@@ -1,0 +1,92 @@
+02:21:58.418 [main] INFO  server.Server - Cosmic v83 starting up.
+02:21:58.547 [main] INFO  tools.DatabaseConnection - Initializing connection pool...
+02:21:58.555 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Starting...
+02:21:58.931 [main] INFO  pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@32cb636e
+02:21:58.933 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Start completed.
+02:21:58.933 [main] INFO  tools.DatabaseConnection - Connection pool initialized in 381 ms
+02:21:59.151 [main] INFO  server.Server - Starting world 0
+02:22:01.386 [main] INFO  channel.Channel - Channel 1: Listening on port 7575
+02:22:01.447 [main] INFO  channel.Channel - Channel 2: Listening on port 7576
+02:22:01.516 [main] INFO  channel.Channel - Channel 3: Listening on port 7577
+02:22:01.580 [main] INFO  channel.Channel - Channel 4: Listening on port 7578
+02:22:01.652 [main] INFO  channel.Channel - Channel 5: Listening on port 7579
+02:22:01.739 [main] INFO  channel.Channel - Channel 6: Listening on port 7580
+02:22:01.816 [main] INFO  channel.Channel - Channel 7: Listening on port 7581
+02:22:01.898 [main] INFO  channel.Channel - Channel 8: Listening on port 7582
+02:22:01.985 [main] INFO  channel.Channel - Channel 9: Listening on port 7583
+02:22:02.089 [main] INFO  channel.Channel - Channel 10: Listening on port 7584
+02:22:02.193 [main] INFO  channel.Channel - Channel 11: Listening on port 7585
+02:22:02.305 [main] INFO  channel.Channel - Channel 12: Listening on port 7586
+02:22:02.380 [main] INFO  channel.Channel - Channel 13: Listening on port 7587
+02:22:02.489 [main] INFO  channel.Channel - Channel 14: Listening on port 7588
+02:22:02.561 [main] INFO  channel.Channel - Channel 15: Listening on port 7589
+02:22:02.622 [main] INFO  channel.Channel - Channel 16: Listening on port 7590
+02:22:02.707 [main] INFO  channel.Channel - Channel 17: Listening on port 7591
+02:22:02.814 [main] INFO  channel.Channel - Channel 18: Listening on port 7592
+02:22:02.840 [main] INFO  server.Server - Finished loading world 0
+02:22:02.919 [main] INFO  server.Server - Listening on port 8484
+02:22:02.919 [main] INFO  server.Server - Cosmic is now online after 4506 ms.
+09:25:07.232 [HikariPool-1 housekeeper] WARN  pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m8s185ms699µs600ns).
+09:25:26.702 [nioEventLoopGroup-39-1] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+09:25:26.702 [nioEventLoopGroup-39-2] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+09:25:26.702 [nioEventLoopGroup-39-3] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+09:25:34.983 [nioEventLoopGroup-39-4] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+09:25:51.600 [nioEventLoopGroup-39-5] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+09:26:37.892 [nioEventLoopGroup-3-1] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+09:26:55.321 [nioEventLoopGroup-3-1] INFO  command.CommandsExecutor - Chr Mantracker used command GotoCommand
+09:28:11.412 [HikariPool-1 housekeeper] WARN  pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m4s152ms678µs300ns).
+10:21:59.916 [TimerManager-Worker-1] DEBUG client.Character - Attempting to autosave chr Mantracker
+11:21:59.915 [TimerManager-Worker-3] DEBUG client.Character - Attempting to autosave chr Mantracker
+12:21:59.913 [TimerManager-Worker-4] DEBUG client.Character - Attempting to autosave chr Mantracker
+13:21:59.915 [TimerManager-Worker-2] DEBUG client.Character - Attempting to autosave chr Mantracker
+14:21:59.917 [TimerManager-Worker-2] DEBUG client.Character - Attempting to autosave chr Mantracker
+15:21:59.904 [TimerManager-Worker-2] DEBUG client.Character - Attempting to autosave chr Mantracker
+16:21:59.919 [TimerManager-Worker-3] DEBUG client.Character - Attempting to autosave chr Mantracker
+17:21:59.913 [TimerManager-Worker-1] DEBUG client.Character - Attempting to autosave chr Mantracker
+18:21:59.915 [TimerManager-Worker-3] DEBUG client.Character - Attempting to autosave chr Mantracker
+19:21:59.911 [TimerManager-Worker-2] DEBUG client.Character - Attempting to autosave chr Mantracker
+20:21:59.905 [TimerManager-Worker-4] DEBUG client.Character - Attempting to autosave chr Mantracker
+21:21:59.912 [TimerManager-Worker-2] DEBUG client.Character - Attempting to autosave chr Mantracker
+22:21:59.907 [TimerManager-Worker-4] DEBUG client.Character - Attempting to autosave chr Mantracker
+23:21:59.913 [TimerManager-Worker-2] DEBUG client.Character - Attempting to autosave chr Mantracker
+00:21:59.904 [TimerManager-Worker-4] DEBUG client.Character - Attempting to autosave chr Mantracker
+00:33:14.966 [pool-3-thread-3] DEBUG client.Character - Attempting to save chr Mantracker
+00:33:42.570 [Thread-0] INFO  server.Server - Shutting down the server!
+00:33:42.570 [Thread-0] INFO  channel.Channel - Shutting down channel 1 in world 0
+00:33:42.593 [Thread-0] INFO  channel.Channel - Successfully shut down channel 1 in world 0
+00:33:42.593 [Thread-0] INFO  channel.Channel - Shutting down channel 2 in world 0
+00:33:42.609 [Thread-0] INFO  channel.Channel - Successfully shut down channel 2 in world 0
+00:33:42.609 [Thread-0] INFO  channel.Channel - Shutting down channel 3 in world 0
+00:33:42.621 [Thread-0] INFO  channel.Channel - Successfully shut down channel 3 in world 0
+00:33:42.621 [Thread-0] INFO  channel.Channel - Shutting down channel 4 in world 0
+00:33:42.634 [Thread-0] INFO  channel.Channel - Successfully shut down channel 4 in world 0
+00:33:42.634 [Thread-0] INFO  channel.Channel - Shutting down channel 5 in world 0
+00:33:42.646 [Thread-0] INFO  channel.Channel - Successfully shut down channel 5 in world 0
+00:33:42.646 [Thread-0] INFO  channel.Channel - Shutting down channel 6 in world 0
+00:33:42.661 [Thread-0] INFO  channel.Channel - Successfully shut down channel 6 in world 0
+00:33:42.661 [Thread-0] INFO  channel.Channel - Shutting down channel 7 in world 0
+00:33:42.677 [Thread-0] INFO  channel.Channel - Successfully shut down channel 7 in world 0
+00:33:42.677 [Thread-0] INFO  channel.Channel - Shutting down channel 8 in world 0
+00:33:42.692 [Thread-0] INFO  channel.Channel - Successfully shut down channel 8 in world 0
+00:33:42.692 [Thread-0] INFO  channel.Channel - Shutting down channel 9 in world 0
+00:33:42.708 [Thread-0] INFO  channel.Channel - Successfully shut down channel 9 in world 0
+00:33:42.708 [Thread-0] INFO  channel.Channel - Shutting down channel 10 in world 0
+00:33:42.727 [Thread-0] INFO  channel.Channel - Successfully shut down channel 10 in world 0
+00:33:42.728 [Thread-0] INFO  channel.Channel - Shutting down channel 11 in world 0
+00:33:42.745 [Thread-0] INFO  channel.Channel - Successfully shut down channel 11 in world 0
+00:33:42.745 [Thread-0] INFO  channel.Channel - Shutting down channel 12 in world 0
+00:33:42.761 [Thread-0] INFO  channel.Channel - Successfully shut down channel 12 in world 0
+00:33:42.761 [Thread-0] INFO  channel.Channel - Shutting down channel 13 in world 0
+00:33:42.779 [Thread-0] INFO  channel.Channel - Successfully shut down channel 13 in world 0
+00:33:42.779 [Thread-0] INFO  channel.Channel - Shutting down channel 14 in world 0
+00:33:42.799 [Thread-0] INFO  channel.Channel - Successfully shut down channel 14 in world 0
+00:33:42.799 [Thread-0] INFO  channel.Channel - Shutting down channel 15 in world 0
+00:33:42.818 [Thread-0] INFO  channel.Channel - Successfully shut down channel 15 in world 0
+00:33:42.818 [Thread-0] INFO  channel.Channel - Shutting down channel 16 in world 0
+00:33:42.834 [Thread-0] INFO  channel.Channel - Successfully shut down channel 16 in world 0
+00:33:42.834 [Thread-0] INFO  channel.Channel - Shutting down channel 17 in world 0
+00:33:42.850 [Thread-0] INFO  channel.Channel - Successfully shut down channel 17 in world 0
+00:33:42.850 [Thread-0] INFO  channel.Channel - Shutting down channel 18 in world 0
+00:33:42.861 [Thread-0] INFO  channel.Channel - Successfully shut down channel 18 in world 0
+00:33:42.861 [Thread-0] INFO  world.World - Finished shutting down world 0
+00:33:42.863 [Thread-0] INFO  server.Server - Worlds and channels are offline.

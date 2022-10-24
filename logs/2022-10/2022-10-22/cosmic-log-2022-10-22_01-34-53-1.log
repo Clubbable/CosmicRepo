@@ -1,0 +1,115 @@
+01:34:53.312 [main] INFO  server.Server - Cosmic v83 starting up.
+01:34:53.374 [main] INFO  tools.DatabaseConnection - Initializing connection pool...
+01:34:53.397 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Starting...
+01:34:53.666 [main] INFO  pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2289aca5
+01:34:53.667 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Start completed.
+01:34:53.668 [main] INFO  tools.DatabaseConnection - Connection pool initialized in 277 ms
+01:34:53.919 [main] INFO  server.Server - Starting world 0
+01:34:55.831 [main] INFO  channel.Channel - Channel 1: Listening on port 7575
+01:34:55.892 [main] INFO  channel.Channel - Channel 2: Listening on port 7576
+01:34:55.949 [main] INFO  channel.Channel - Channel 3: Listening on port 7577
+01:34:56.003 [main] INFO  channel.Channel - Channel 4: Listening on port 7578
+01:34:56.058 [main] INFO  channel.Channel - Channel 5: Listening on port 7579
+01:34:56.106 [main] INFO  channel.Channel - Channel 6: Listening on port 7580
+01:34:56.156 [main] INFO  channel.Channel - Channel 7: Listening on port 7581
+01:34:56.205 [main] INFO  channel.Channel - Channel 8: Listening on port 7582
+01:34:56.245 [main] INFO  channel.Channel - Channel 9: Listening on port 7583
+01:34:56.287 [main] INFO  channel.Channel - Channel 10: Listening on port 7584
+01:34:56.330 [main] INFO  channel.Channel - Channel 11: Listening on port 7585
+01:34:56.370 [main] INFO  channel.Channel - Channel 12: Listening on port 7586
+01:34:56.409 [main] INFO  channel.Channel - Channel 13: Listening on port 7587
+01:34:56.448 [main] INFO  channel.Channel - Channel 14: Listening on port 7588
+01:34:56.488 [main] INFO  channel.Channel - Channel 15: Listening on port 7589
+01:34:56.538 [main] INFO  channel.Channel - Channel 16: Listening on port 7590
+01:34:56.575 [main] INFO  channel.Channel - Channel 17: Listening on port 7591
+01:34:56.613 [main] INFO  channel.Channel - Channel 18: Listening on port 7592
+01:34:56.726 [main] INFO  server.Server - Finished loading world 0
+01:34:56.782 [main] INFO  server.Server - Listening on port 8484
+01:34:56.782 [main] INFO  server.Server - Cosmic is now online after 3472 ms.
+08:35:14.836 [nioEventLoopGroup-39-1] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+08:36:35.583 [nioEventLoopGroup-39-1] INFO  creator.CharacterFactory - Account martin created chr with name Martin
+08:38:27.569 [nioEventLoopGroup-39-2] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+08:38:52.355 [nioEventLoopGroup-3-1] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+08:39:22.613 [TimerManager-Worker-3] DEBUG client.Character - Attempting to save chr Admin
+08:39:22.809 [nioEventLoopGroup-5-1] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 2 from 127.0.0.1
+08:39:25.007 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Admin
+08:39:25.326 [nioEventLoopGroup-3-2] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+08:39:35.203 [nioEventLoopGroup-39-3] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+08:39:35.208 [pool-3-thread-5] DEBUG client.Character - Attempting to save chr Admin
+08:39:43.355 [nioEventLoopGroup-3-3] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+08:40:19.451 [TimerManager-Worker-4] DEBUG client.Character - Attempting to save chr Admin
+08:40:19.657 [nioEventLoopGroup-5-2] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 2 from 127.0.0.1
+08:40:28.316 [pool-3-thread-10] DEBUG client.Character - Attempting to save chr Admin
+08:40:28.319 [nioEventLoopGroup-39-4] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+08:40:36.145 [nioEventLoopGroup-3-4] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+08:42:26.021 [pool-3-thread-12] DEBUG client.Character - Attempting to save chr Admin
+08:42:26.024 [nioEventLoopGroup-39-5] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+08:42:55.522 [nioEventLoopGroup-3-5] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+08:44:14.265 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:44:36.207 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:44:45.281 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command BuffMeCommand
+08:44:55.206 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command BuffMeCommand
+08:44:57.419 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:45:05.889 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:45:25.022 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command RechargeCommand
+08:45:33.779 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:45:46.597 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command EmpowerMeCommand
+08:45:57.308 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:46:26.355 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command LevelCommand
+08:46:28.613 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:46:41.876 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command GmShopCommand
+08:47:08.726 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:47:27.496 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command MaxStatCommand
+08:47:41.875 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:48:04.338 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command MaxSkillCommand
+08:48:44.572 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:49:42.649 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HealMapCommand
+08:49:45.334 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:50:02.794 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:50:21.462 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command ZakumCommand
+08:50:43.975 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:51:14.021 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HorntailCommand
+08:51:29.424 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:51:38.596 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:51:54.027 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command DebugCommand
+08:51:58.860 [nioEventLoopGroup-3-5] INFO  command.CommandsExecutor - Chr Admin used command HelpCommand
+08:52:30.814 [pool-3-thread-1] DEBUG client.Character - Attempting to save chr Admin
+08:52:55.933 [Thread-0] INFO  server.Server - Shutting down the server!
+08:52:55.933 [Thread-0] INFO  channel.Channel - Shutting down channel 1 in world 0
+08:52:55.948 [Thread-0] INFO  channel.Channel - Successfully shut down channel 1 in world 0
+08:52:55.948 [Thread-0] INFO  channel.Channel - Shutting down channel 2 in world 0
+08:52:55.951 [Thread-0] INFO  channel.Channel - Successfully shut down channel 2 in world 0
+08:52:55.951 [Thread-0] INFO  channel.Channel - Shutting down channel 3 in world 0
+08:52:55.955 [Thread-0] INFO  channel.Channel - Successfully shut down channel 3 in world 0
+08:52:55.955 [Thread-0] INFO  channel.Channel - Shutting down channel 4 in world 0
+08:52:55.959 [Thread-0] INFO  channel.Channel - Successfully shut down channel 4 in world 0
+08:52:55.959 [Thread-0] INFO  channel.Channel - Shutting down channel 5 in world 0
+08:52:55.963 [Thread-0] INFO  channel.Channel - Successfully shut down channel 5 in world 0
+08:52:55.963 [Thread-0] INFO  channel.Channel - Shutting down channel 6 in world 0
+08:52:55.967 [Thread-0] INFO  channel.Channel - Successfully shut down channel 6 in world 0
+08:52:55.967 [Thread-0] INFO  channel.Channel - Shutting down channel 7 in world 0
+08:52:55.971 [Thread-0] INFO  channel.Channel - Successfully shut down channel 7 in world 0
+08:52:55.971 [Thread-0] INFO  channel.Channel - Shutting down channel 8 in world 0
+08:52:55.974 [Thread-0] INFO  channel.Channel - Successfully shut down channel 8 in world 0
+08:52:55.974 [Thread-0] INFO  channel.Channel - Shutting down channel 9 in world 0
+08:52:55.976 [Thread-0] INFO  channel.Channel - Successfully shut down channel 9 in world 0
+08:52:55.976 [Thread-0] INFO  channel.Channel - Shutting down channel 10 in world 0
+08:52:55.979 [Thread-0] INFO  channel.Channel - Successfully shut down channel 10 in world 0
+08:52:55.979 [Thread-0] INFO  channel.Channel - Shutting down channel 11 in world 0
+08:52:55.981 [Thread-0] INFO  channel.Channel - Successfully shut down channel 11 in world 0
+08:52:55.981 [Thread-0] INFO  channel.Channel - Shutting down channel 12 in world 0
+08:52:55.984 [Thread-0] INFO  channel.Channel - Successfully shut down channel 12 in world 0
+08:52:55.984 [Thread-0] INFO  channel.Channel - Shutting down channel 13 in world 0
+08:52:55.986 [Thread-0] INFO  channel.Channel - Successfully shut down channel 13 in world 0
+08:52:55.987 [Thread-0] INFO  channel.Channel - Shutting down channel 14 in world 0
+08:52:55.989 [Thread-0] INFO  channel.Channel - Successfully shut down channel 14 in world 0
+08:52:55.989 [Thread-0] INFO  channel.Channel - Shutting down channel 15 in world 0
+08:52:55.993 [Thread-0] INFO  channel.Channel - Successfully shut down channel 15 in world 0
+08:52:55.993 [Thread-0] INFO  channel.Channel - Shutting down channel 16 in world 0
+08:52:55.996 [Thread-0] INFO  channel.Channel - Successfully shut down channel 16 in world 0
+08:52:55.996 [Thread-0] INFO  channel.Channel - Shutting down channel 17 in world 0
+08:52:56.001 [Thread-0] INFO  channel.Channel - Successfully shut down channel 17 in world 0
+08:52:56.001 [Thread-0] INFO  channel.Channel - Shutting down channel 18 in world 0
+08:52:56.006 [Thread-0] INFO  channel.Channel - Successfully shut down channel 18 in world 0
+08:52:56.006 [Thread-0] INFO  world.World - Finished shutting down world 0
+08:52:56.009 [Thread-0] INFO  server.Server - Worlds and channels are offline.

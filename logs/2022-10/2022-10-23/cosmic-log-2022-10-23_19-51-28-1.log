@@ -1,0 +1,71 @@
+19:51:28.090 [main] INFO  server.Server - Cosmic v83 starting up.
+19:51:28.269 [main] INFO  tools.DatabaseConnection - Initializing connection pool...
+19:51:28.273 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Starting...
+19:51:28.565 [main] INFO  pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@32cb636e
+19:51:28.567 [main] INFO  hikari.HikariDataSource - HikariPool-1 - Start completed.
+19:51:28.568 [main] INFO  tools.DatabaseConnection - Connection pool initialized in 295 ms
+19:51:28.892 [main] INFO  server.Server - Starting world 0
+19:51:31.130 [main] INFO  channel.Channel - Channel 1: Listening on port 7575
+19:51:31.184 [main] INFO  channel.Channel - Channel 2: Listening on port 7576
+19:51:31.248 [main] INFO  channel.Channel - Channel 3: Listening on port 7577
+19:51:31.303 [main] INFO  channel.Channel - Channel 4: Listening on port 7578
+19:51:31.373 [main] INFO  channel.Channel - Channel 5: Listening on port 7579
+19:51:31.439 [main] INFO  channel.Channel - Channel 6: Listening on port 7580
+19:51:31.508 [main] INFO  channel.Channel - Channel 7: Listening on port 7581
+19:51:31.569 [main] INFO  channel.Channel - Channel 8: Listening on port 7582
+19:51:31.639 [main] INFO  channel.Channel - Channel 9: Listening on port 7583
+19:51:31.700 [main] INFO  channel.Channel - Channel 10: Listening on port 7584
+19:51:31.757 [main] INFO  channel.Channel - Channel 11: Listening on port 7585
+19:51:31.808 [main] INFO  channel.Channel - Channel 12: Listening on port 7586
+19:51:31.860 [main] INFO  channel.Channel - Channel 13: Listening on port 7587
+19:51:31.910 [main] INFO  channel.Channel - Channel 14: Listening on port 7588
+19:51:31.953 [main] INFO  channel.Channel - Channel 15: Listening on port 7589
+19:51:31.992 [main] INFO  channel.Channel - Channel 16: Listening on port 7590
+19:51:32.028 [main] INFO  channel.Channel - Channel 17: Listening on port 7591
+19:51:32.066 [main] INFO  channel.Channel - Channel 18: Listening on port 7592
+19:51:32.197 [main] INFO  server.Server - Finished loading world 0
+19:51:32.254 [main] INFO  server.Server - Listening on port 8484
+19:51:32.255 [main] INFO  server.Server - Cosmic is now online after 4166 ms.
+02:52:01.028 [nioEventLoopGroup-39-1] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+02:52:27.366 [nioEventLoopGroup-39-2] DEBUG netty.LoginServerInitializer - Client connected to login server from 127.0.0.1 
+02:52:54.670 [nioEventLoopGroup-3-1] DEBUG netty.ChannelServerInitializer - Client connecting to world 0, channel 1 from 127.0.0.1
+02:59:34.134 [pool-3-thread-19] DEBUG client.Character - Attempting to save chr Mantracker
+03:03:45.425 [Thread-0] INFO  server.Server - Shutting down the server!
+03:03:45.426 [Thread-0] INFO  channel.Channel - Shutting down channel 1 in world 0
+03:03:45.434 [Thread-0] INFO  channel.Channel - Successfully shut down channel 1 in world 0
+03:03:45.435 [Thread-0] INFO  channel.Channel - Shutting down channel 2 in world 0
+03:03:45.439 [Thread-0] INFO  channel.Channel - Successfully shut down channel 2 in world 0
+03:03:45.439 [Thread-0] INFO  channel.Channel - Shutting down channel 3 in world 0
+03:03:45.442 [Thread-0] INFO  channel.Channel - Successfully shut down channel 3 in world 0
+03:03:45.442 [Thread-0] INFO  channel.Channel - Shutting down channel 4 in world 0
+03:03:45.446 [Thread-0] INFO  channel.Channel - Successfully shut down channel 4 in world 0
+03:03:45.446 [Thread-0] INFO  channel.Channel - Shutting down channel 5 in world 0
+03:03:45.453 [Thread-0] INFO  channel.Channel - Successfully shut down channel 5 in world 0
+03:03:45.453 [Thread-0] INFO  channel.Channel - Shutting down channel 6 in world 0
+03:03:45.458 [Thread-0] INFO  channel.Channel - Successfully shut down channel 6 in world 0
+03:03:45.459 [Thread-0] INFO  channel.Channel - Shutting down channel 7 in world 0
+03:03:45.463 [Thread-0] INFO  channel.Channel - Successfully shut down channel 7 in world 0
+03:03:45.464 [Thread-0] INFO  channel.Channel - Shutting down channel 8 in world 0
+03:03:45.467 [Thread-0] INFO  channel.Channel - Successfully shut down channel 8 in world 0
+03:03:45.467 [Thread-0] INFO  channel.Channel - Shutting down channel 9 in world 0
+03:03:45.471 [Thread-0] INFO  channel.Channel - Successfully shut down channel 9 in world 0
+03:03:45.471 [Thread-0] INFO  channel.Channel - Shutting down channel 10 in world 0
+03:03:45.477 [Thread-0] INFO  channel.Channel - Successfully shut down channel 10 in world 0
+03:03:45.477 [Thread-0] INFO  channel.Channel - Shutting down channel 11 in world 0
+03:03:45.481 [Thread-0] INFO  channel.Channel - Successfully shut down channel 11 in world 0
+03:03:45.481 [Thread-0] INFO  channel.Channel - Shutting down channel 12 in world 0
+03:03:45.484 [Thread-0] INFO  channel.Channel - Successfully shut down channel 12 in world 0
+03:03:45.485 [Thread-0] INFO  channel.Channel - Shutting down channel 13 in world 0
+03:03:45.488 [Thread-0] INFO  channel.Channel - Successfully shut down channel 13 in world 0
+03:03:45.488 [Thread-0] INFO  channel.Channel - Shutting down channel 14 in world 0
+03:03:45.492 [Thread-0] INFO  channel.Channel - Successfully shut down channel 14 in world 0
+03:03:45.493 [Thread-0] INFO  channel.Channel - Shutting down channel 15 in world 0
+03:03:45.495 [Thread-0] INFO  channel.Channel - Successfully shut down channel 15 in world 0
+03:03:45.496 [Thread-0] INFO  channel.Channel - Shutting down channel 16 in world 0
+03:03:45.500 [Thread-0] INFO  channel.Channel - Successfully shut down channel 16 in world 0
+03:03:45.501 [Thread-0] INFO  channel.Channel - Shutting down channel 17 in world 0
+03:03:45.505 [Thread-0] INFO  channel.Channel - Successfully shut down channel 17 in world 0
+03:03:45.505 [Thread-0] INFO  channel.Channel - Shutting down channel 18 in world 0
+03:03:45.508 [Thread-0] INFO  channel.Channel - Successfully shut down channel 18 in world 0
+03:03:45.508 [Thread-0] INFO  world.World - Finished shutting down world 0
+03:03:45.511 [Thread-0] INFO  server.Server - Worlds and channels are offline.
